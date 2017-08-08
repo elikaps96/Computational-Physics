@@ -1,0 +1,36 @@
+Eli Kapetanopoulos
+Phys 3800
+Summer 2017
+Homework Assignment 1--Linux Commands
+---------------------------------------
+ls - List file names.
+mv - Move files or directories.
+cp - Copy files or directories.
+rm - Remove a file or directory.
+man - Look the MANual pages for a command.
+mkdir - Make a directory.
+rmdir - Remove a directory.
+cd - Change directory.
+pwd - Print working directory.
+lpr, lp - Send file to a printer.
+cat, more, less - List content of a file.
+echo - print string or variable.
+history - To see list of recent commands.
+chmod - Set protection of a file.
+chown - Set owner of a file.
+ln - make a link to a path.
+quota - Find out disk quota.
+du - Find out disk usage.
+tar -cvf - Create archive file tarfile.tar from list of files.
+tar -xvf - Extract files from archive file tarfile.tar.
+tar -xzvf - Extract files from a gzipped tarfile.
+gzip - Zip filename (can be tar file) into compressed file.
+gunzip - Unzip filename from filename.gz.
+bzip2 - File compression.
+bunzip2 - Decompressing files.
+enscript - Convert text files to PostScript.
+a2ps - Format files for printing on a postScript printer.
+pr - Printing and pagination filter for text files.
+scp - Secure copy For transferring files between computers.
+sftp - Secure ftp FOr transfering files between computers.
+ssh - To log on remotely.
